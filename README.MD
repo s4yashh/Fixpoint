@@ -5,7 +5,7 @@ Students can submit complaints, assign priority levels, and track their status �
 
 ---
 
-## 🚀 Features
+##  Features
 
 - 📝 Submit hostel complaints with title & description  
 - 🎚️ Choose priority levels (Low, Medium, High)  
@@ -109,26 +109,5 @@ Gives complete insight into each complaint for both students and authorities.
 - 📊 Analytics dashboard for hostel authorities  
 
 ---
-
-## 🤝 Contributors
-
-- **Your Name**  
-- **Team Members (if any)**  
-
----
-
-## 📄 License
-
-This project is for educational and development purposes. Add a license if needed (MIT recommended).
-
----
-
-## 💡 Want a more stylish README?
-
-I can add:
-- Badges (Swift, iOS, License, Build)  
-- UI screenshots  
-- Installation instructions  
-- Demo GIF  
 
 Just tell me, and I will generate a pro-level README for GitHub.
