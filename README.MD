@@ -7,13 +7,13 @@ Students can submit complaints, assign priority levels, and track their status �
 
 ##  Features
 
-- 📝 Submit hostel complaints with title & description  
-- 🎚️ Choose priority levels (Low, Medium, High)  
-- 📋 View all submitted complaints in a clear list  
-- 📄 Detailed view for each complaint  
-- 🔄 Track complaint progress (Pending / In Progress / Resolved)  
-- 🎨 Modern SwiftUI interface  
-- ⚡ Smooth and intuitive user experience  
+-  Submit hostel complaints with title & description  
+-  Choose priority levels (Low, Medium, High)  
+-  View all submitted complaints in a clear list  
+-  Detailed view for each complaint  
+-  Track complaint progress (Pending / In Progress / Resolved)  
+-  Modern SwiftUI interface  
+-  Smooth and intuitive user experience  
 
 ---
 
@@ -37,9 +37,9 @@ Acts as the landing page and helps users quickly navigate to important sections.
 - Complaint Title  
 - Description  
 - Priority Level  
-  - 🔵 Low  
-  - 🟠 Medium  
-  - 🔴 High  
+  -  Low  
+  -  Medium  
+  -  High  
 
 **Purpose:**  
 Allows students to create a new complaint with a clear priority indicator for hostel authorities.
@@ -107,7 +107,3 @@ Gives complete insight into each complaint for both students and authorities.
 - 🧑‍💼 Admin/warden panel  
 - 🔗 Backend integration (Firebase/Supabase)  
 - 📊 Analytics dashboard for hostel authorities  
-
----
-
-Just tell me, and I will generate a pro-level README for GitHub.
